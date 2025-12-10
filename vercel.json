@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd tarde/Frontend && npm install && npm run build",
+  "outputDirectory": "tarde/Frontend/dist",
+  "installCommand": "cd tarde/Frontend && npm install"
+}
+
