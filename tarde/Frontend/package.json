@@ -9,7 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.24"
+    "@simplewebauthn/browser": "^13.2.2",
+    "axios": "^1.13.2",
+    "html5-qrcode": "^2.3.8",
+    "pinia": "^3.0.4",
+    "qrcode": "^1.5.4",
+    "qrcode-reader-vue3": "^3.1.4",
+    "vue": "^3.5.24",
+    "vue-qrcode-reader": "^5.7.3",
+    "vue-router": "^4.6.3"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
